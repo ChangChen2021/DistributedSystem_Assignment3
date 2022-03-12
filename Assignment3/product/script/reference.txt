@@ -1,0 +1,1 @@
+reference Cphayim's jquery.hiSlide to make the slide framework| https://github.com/Cphayim/jquery.hiSlide/blob/master/index.html
